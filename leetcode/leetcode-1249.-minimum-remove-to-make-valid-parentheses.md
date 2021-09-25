@@ -4,7 +4,7 @@
 
 {% embed url="https://www.bilibili.com/video/BV1Qb4y117yf/" %}
 
-```text
+```cpp
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
