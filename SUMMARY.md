@@ -11,4 +11,5 @@
 * [Leetcode 1838. Frequency of the Most Frequent Element](leetcode1838.md)
 * [Leetcode 1060. Missing Element in Sorted Array](leetcode1060.md)
 * [Implement a Max Heap Using Dynamic Array](implementheap.md)
+* [Leetcode 1055. Shortest Way to Format String](leetcode1055.md)
 
