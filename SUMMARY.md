@@ -24,6 +24,5 @@
 * [Leetcode 971. Flip Binary Tree To Match Preorder Traversal](leetcode971.md)
 * [Leetcode 675. Cut Off Trees for Golf Event](leetcode675.md)
 * [Implement Shared Pointer](implement-shared-pointer.md)
-* [Leetcode 358. Rearrange String k Distance Apart](leetcode358.md)
 * [Leetcode 358. Rearrange String k Distance Apart](leetcode358-1.md)
 
