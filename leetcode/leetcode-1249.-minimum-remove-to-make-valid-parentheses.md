@@ -1,5 +1,11 @@
 # Leetcode 1249. Minimum Remove to Make Valid Parentheses
 
+{% embed url="https://youtu.be/N6At0J9UKS8" %}
+
+{% embed url="https://www.bilibili.com/video/BV1Qb4y117yf/" %}
+
+
+
 ```cpp
 class Solution {
 public:
