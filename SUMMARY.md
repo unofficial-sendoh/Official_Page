@@ -20,4 +20,5 @@
 * [Leetcode 684. Redundant Connection](leetcode684.md)
 * [Leetcode 426. Convert Binary Search Tree to Sorted Doubly Linked list](leetcode426.md)
 * [Leetcode 1110. Delete Nodes And Return Forest](leetcode1110.md)
+* [Leetcode 1168. Optimize Water Distribution in a Village](leetcode1168.md)
 
