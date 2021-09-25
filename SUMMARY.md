@@ -12,6 +12,7 @@
 
 ## Coding
 
+* [Leetcode 706. Design Hashmap](coding/leetcode706.md)
 * [Leetcode 370. Range Addition](coding/leetcode370.md)
 * [Leetcode 1557. Minimum Number of Vertices to Reach All Nodes](coding/leetcode1557.md)
 * [Leetcode 1249. Minimum Remove to Make Valid Parentheses](coding/leetcode1249.md)
