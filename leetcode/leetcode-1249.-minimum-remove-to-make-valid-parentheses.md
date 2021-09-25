@@ -1,7 +1,6 @@
 # Leetcode 1249. Minimum Remove to Make Valid Parentheses
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6At0J9UKS8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-{% highlight cpp %}
 <iframe src="//player.bilibili.com/player.html?aid=632825380&bvid=BV1Qb4y117yf&cid=401761966&page=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"   style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
 ```cpp
