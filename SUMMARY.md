@@ -17,4 +17,5 @@
 * [Leetcode 416. Partition Equal Subset Sum](leetcode416.md)
 * [Leetcode 465. Optimal Account Balancing](leetcode465.md)
 * [Leetcode 715. Range Module](leetcode715.md)
+* [Leetcode 684. Redundant Connection](leetcode684.md)
 
