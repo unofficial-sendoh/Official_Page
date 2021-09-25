@@ -13,4 +13,5 @@
 * [Implement a Max Heap Using Dynamic Array](implementheap.md)
 * [Leetcode 1055. Shortest Way to Format String](leetcode1055.md)
 * [Leetcode 300. Longest Increasing Subsequence](leetcode300.md)
+* [Leetcode 1143. Longest Common Subsequence](leetcode1143.md)
 
