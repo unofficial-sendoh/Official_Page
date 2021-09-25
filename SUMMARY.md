@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [中文介绍](zhong-wen-jie-shao.md)
 
 ## AI DOMAIN <a id="a"></a>
 
