@@ -23,4 +23,5 @@
 * [Leetcode 1168. Optimize Water Distribution in a Village](leetcode1168.md)
 * [Leetcode 971. Flip Binary Tree To Match Preorder Traversal](leetcode971.md)
 * [Leetcode 675. Cut Off Trees for Golf Event](leetcode675.md)
+* [Implement Shared Pointer](implement-shared-pointer.md)
 
