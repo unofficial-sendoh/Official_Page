@@ -2,6 +2,14 @@
 
 * [Introduction](README.md)
 
+## Big Data
+
+* [HackerRank MapReduce - Word Counts](big-data/hackerrank-mapreduce.md)
+
+## Math Fundamentals
+
+* [Leetcode 710. Random Pick with Blacklist](math-fundamentals/leetcode710.md)
+
 ## Coding
 
 * [Leetcode 370. Range Addition](coding/leetcode370.md)
@@ -27,12 +35,4 @@
 * [Leetcode 675. Cut Off Trees for Golf Event](leetcode675.md)
 * [Implement Shared Pointer](implement-shared-pointer.md)
 * [Leetcode 358. Rearrange String k Distance Apart](leetcode358.md)
-
-## Big Data
-
-* [HackerRank MapReduce - Word Counts](big-data/hackerrank-mapreduce.md)
-
----
-
-* [Untitled](untitled.md)
 
