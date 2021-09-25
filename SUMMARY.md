@@ -8,5 +8,5 @@
 
 ---
 
-* [2233](2233.md)
+* [Leetcode 1838. Frequency of the Most Frequent Element](2233.md)
 
