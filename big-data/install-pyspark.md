@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/5KVJBklxqWM" %}
 
-Install Commands on Colab
+## Install Commands on Colab
 
 ```bash
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
@@ -15,14 +15,14 @@ import findspark
 findspark.init()
 ```
 
-Install Commands on Ubuntu
+## Install Commands on Ubuntu
 
 ```bash
 conda create -n branch_name -q openjdk=8 pyspark=3.1.2
 conda activate branch_name
 ```
 
-Code to Solve Word Count
+## Code to Solve Word Count
 
 ```python
 from pyspark.sql import SparkSession
