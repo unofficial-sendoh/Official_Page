@@ -4,8 +4,6 @@
 
 {% embed url="https://www.bilibili.com/video/BV1Lf4y1A76Y/" %}
 
-
-
 ```cpp
 class Solution {
 public:

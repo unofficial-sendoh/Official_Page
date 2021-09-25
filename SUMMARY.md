@@ -12,4 +12,5 @@
 * [Leetcode 1060. Missing Element in Sorted Array](leetcode1060.md)
 * [Implement a Max Heap Using Dynamic Array](implementheap.md)
 * [Leetcode 1055. Shortest Way to Format String](leetcode1055.md)
+* [Leetcode 300. Longest Increasing Subsequence](leetcode300.md)
 

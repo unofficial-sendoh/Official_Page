@@ -4,8 +4,6 @@
 
 {% embed url="https://www.bilibili.com/video/BV1Uv411A7GU/" %}
 
-
-
 ```cpp
 #include <vector>
 #include <optional>
