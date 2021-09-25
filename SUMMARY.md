@@ -22,4 +22,5 @@
 * [Leetcode 1110. Delete Nodes And Return Forest](leetcode1110.md)
 * [Leetcode 1168. Optimize Water Distribution in a Village](leetcode1168.md)
 * [Leetcode 971. Flip Binary Tree To Match Preorder Traversal](leetcode971.md)
+* [Leetcode 675. Cut Off Trees for Golf Event](leetcode675.md)
 
