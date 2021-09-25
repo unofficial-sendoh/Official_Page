@@ -1,6 +1,6 @@
 # Introduction
 
-I am enthusiastic in learning and practicing coding and AI domain knowledge. It would be extra bonus if my learning experience helped you as well.
+I am enthusiastic in learning and practicing coding and AI domain knowledge. It would be extra bonus to me if my learning experience helped you as well.
 
 Coding interview prep [sheet](https://docs.google.com/spreadsheets/d/1CtAQdoeB_Udyan8KJLtn0xgYYs8Tyq1mTeMXSrJ2N-0/edit?usp=sharing).
 
