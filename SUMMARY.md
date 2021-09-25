@@ -16,4 +16,5 @@
 * [Leetcode 1143. Longest Common Subsequence](leetcode1143.md)
 * [Leetcode 416. Partition Equal Subset Sum](leetcode416.md)
 * [Leetcode 465. Optimal Account Balancing](leetcode465.md)
+* [Leetcode 715. Range Module](leetcode715.md)
 
