@@ -1,25 +1,12 @@
 # Introduction
 
-## Getting Super Powers
+I am enthusiastic in learning and practicing coding and AI domain knowledge. It would be extra bonus if my learning experience helped you as well.
 
-Becoming a super hero is a fairly straight forward process:
+Coding interview prep [sheet](https://docs.google.com/spreadsheets/d/1CtAQdoeB_Udyan8KJLtn0xgYYs8Tyq1mTeMXSrJ2N-0/edit?usp=sharing).
 
-```
-$ give me super-powers
-```
+AI domain interview prep [sheet](https://docs.google.com/spreadsheets/d/1e3hcKtLP_ntYelH7mYsEzcBnNhthJp6z03rBRMxuUW4/edit?usp=sharing).
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+My Youtube Channel [Link](https://www.youtube.com/channel/UCY9yF2DAxnthjhPOvQPRXqA).
 
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+My Bilibili Channel [Link](https://space.bilibili.com/39252600).
 
