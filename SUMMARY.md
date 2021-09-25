@@ -12,6 +12,7 @@
 
 * [Leetcode 710. Random Pick with Blacklist](math-fundamentals/leetcode710.md)
 * [Probabilistic Fundamental and Interview Questions](math-fundamentals/probabilistic-fundamental.md)
+* [Estimation Fundamentals and Interview Questions - MLE and MAP](math-fundamentals/estimation-fundamentals-and-interview-questions-mle-and-map.md)
 
 ## Coding
 
