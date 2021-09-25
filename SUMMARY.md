@@ -9,5 +9,5 @@
 ---
 
 * [Leetcode 1838. Frequency of the Most Frequent Element](leetcode1838.md)
-* [Untitled](untitled.md)
+* [Leetcode 1060. Missing Element in Sorted Array](leetcode1060.md)
 
