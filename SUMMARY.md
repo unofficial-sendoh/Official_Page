@@ -5,6 +5,7 @@
 ## Big Data
 
 * [HackerRank MapReduce - Word Counts](big-data/hackerrank-mapreduce.md)
+* [Install PySpark on Google Colab / Ubuntu and Solve Word Count](big-data/install-pyspark.md)
 
 ## Math Fundamentals
 
