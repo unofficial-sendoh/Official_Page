@@ -11,6 +11,7 @@
 ## Math Fundamentals
 
 * [Leetcode 710. Random Pick with Blacklist](math-fundamentals/leetcode710.md)
+* [Probabilistic Fundamental and Interview Questions](math-fundamentals/probabilistic-fundamental.md)
 
 ## Coding
 
