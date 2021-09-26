@@ -21,6 +21,7 @@
   * [Implement Shared Pointer](c/u/implement-shared-pointer.md)
   * [Circular Reference and Weak Pointer](c/u/circular-reference-and-weak-pointer.md)
 * [Leetcode](c/l/README.md)
+  * [Leetcode1727. Largest Submatrix With Rearrangements](c/l/leetcode1727.md)
   * [Leetcode 358. Rearrange String k Distance Apart](c/l/leetcode358.md)
   * [Leetcode 1838. Frequency of the Most Frequent Element](c/l/leetcode1838.md)
   * [Leetcode 1557. Minimum Number of Vertices to Reach All Nodes](c/l/leetcode1557.md)
