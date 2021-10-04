@@ -26,7 +26,6 @@ private:
 class StandardBloomFilter {
 public:
     StandardBloomFilter(int k) {
-        // do intialization if necessary
         m_k = k;
         m_hash_funcs.reserve(m_k);
         const int kBitSize = 10000;
