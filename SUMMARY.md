@@ -6,6 +6,7 @@
 ## AI DOMAIN <a id="a"></a>
 
 * [Big Data](a/b/README.md)
+  * [Lintcode 556. Standard Bloom Filter](a/b/lintcode-556.md)
   * [HackerRank MapReduce - Word Counts](a/b/hackerrank-mapreduce.md)
   * [Install PySpark on Google Colab / Ubuntu and Solve Word Count](a/b/install-pyspark.md)
   * [Spark v.s Map Reduce and Summarization Pattern](a/b/spark-v.s-map-reduce.md)
