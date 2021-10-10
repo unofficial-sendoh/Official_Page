@@ -1,6 +1,8 @@
 # Leetcode 300. Longest Increasing Subsequence
 
-{% embed url="https://youtu.be/SJZ\_KlTeG-Y" %}
+{% embed url="https://youtu.be/SJZ_KlTeG-Y" %}
+
+{% embed url="https://www.bilibili.com/video/BV1r3411y7LA?share_source=copy_web" %}
 
 ```cpp
 class Solution {
@@ -30,4 +32,3 @@ public:
     }
 };
 ```
-
