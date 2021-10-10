@@ -1,6 +1,8 @@
 # Leetcode 1143. Longest Common Subsequence
 
-{% embed url="https://youtu.be/az-\_\_D73uP4" %}
+{% embed url="https://youtu.be/az-__D73uP4" %}
+
+{% embed url="https://www.bilibili.com/video/BV1xu411Z7Ua" %}
 
 ```cpp
 class Solution {
@@ -27,4 +29,3 @@ public:
     }
 };
 ```
-

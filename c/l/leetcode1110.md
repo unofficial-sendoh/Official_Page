@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/Kn9XwTdGTdQ" %}
 
+{% embed url="https://www.bilibili.com/video/BV1VL4y1B7pF" %}
+
 ```cpp
 class Solution {
 public:
@@ -60,4 +62,3 @@ public:
     }
 };
 ```
-
