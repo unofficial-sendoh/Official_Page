@@ -1,5 +1,7 @@
 # Lintcode 556. Standard Bloom Filter
 
+{% embed url="https://youtu.be/IlfoXC2OPLI" %}
+
 ```cpp
 class HashFunction {
 public:
@@ -60,4 +62,3 @@ private:
     vector<bool> m_bit_array;
 };
 ```
-
