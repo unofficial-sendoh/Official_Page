@@ -3,9 +3,10 @@
 * [Introduction](README.md)
 * [中文介绍](zhong-wen-jie-shao.md)
 
-## AI DOMAIN <a id="a"></a>
+## AI DOMAIN <a href="a" id="a"></a>
 
 * [Big Data](a/b/README.md)
+  * [PySpark Fundamentals and Implement Top Ten Pattern](a/b/pyspark-fundamentals-and-implement-top-ten-pattern.md)
   * [Lintcode 556. Standard Bloom Filter](a/b/lintcode-556.md)
   * [HackerRank MapReduce - Word Counts](a/b/hackerrank-mapreduce.md)
   * [Install PySpark on Google Colab / Ubuntu and Solve Word Count](a/b/install-pyspark.md)
@@ -15,7 +16,7 @@
   * [Probabilistic Fundamental and Interview Questions](a/m/probabilistic-fundamental.md)
   * [Leetcode 710. Random Pick with Blacklist](a/m/leetcode710.md)
 
-## Coding <a id="c"></a>
+## Coding <a href="c" id="c"></a>
 
 * [Uncategorized](c/u/README.md)
   * [Implement a Max Heap Using Dynamic Array](c/u/implementheap.md)
@@ -42,4 +43,3 @@
   * [Leetcode 1168. Optimize Water Distribution in a Village](c/l/leetcode1168.md)
   * [Leetcode 971. Flip Binary Tree To Match Preorder Traversal](c/l/leetcode971.md)
   * [Leetcode 675. Cut Off Trees for Golf Event](c/l/leetcode675.md)
-
