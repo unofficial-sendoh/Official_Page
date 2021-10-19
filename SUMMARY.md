@@ -6,11 +6,11 @@
 ## AI DOMAIN <a href="a" id="a"></a>
 
 * [Big Data](a/b/README.md)
-  * [PySpark Fundamentals and Implement Top Ten Pattern](a/b/pyspark-fundamentals-and-implement-top-ten-pattern.md)
-  * [Lintcode 556. Standard Bloom Filter](a/b/lintcode-556.md)
   * [HackerRank MapReduce - Word Counts](a/b/hackerrank-mapreduce.md)
   * [Install PySpark on Google Colab / Ubuntu and Solve Word Count](a/b/install-pyspark.md)
   * [Spark v.s Map Reduce and Summarization Pattern](a/b/spark-v.s-map-reduce.md)
+  * [Lintcode 556. Standard Bloom Filter](a/b/lintcode-556.md)
+  * [PySpark Fundamentals and Implement Top Ten Pattern](a/b/pyspark-fundamentals-and-implement-top-ten-pattern.md)
 * [Math Fundamentals](a/m/README.md)
   * [Estimation Fundamentals and Interview Questions - MLE and MAP](a/m/estimation-fundamentals-and-interview-questions-mle-and-map.md)
   * [Probabilistic Fundamental and Interview Questions](a/m/probabilistic-fundamental.md)
