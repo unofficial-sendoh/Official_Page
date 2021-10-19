@@ -1,5 +1,7 @@
 # PySpark Fundamentals and Implement Top Ten Pattern
 
+{% embed url="https://youtu.be/dhVaPHXEWsg" %}
+
 ```python
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 !wget -q https://downloads.apache.org/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz
