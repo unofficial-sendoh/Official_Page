@@ -12,8 +12,8 @@
   * [Lintcode 556. Standard Bloom Filter](a/b/lintcode-556.md)
   * [PySpark Fundamentals and Implement Top Ten Pattern](a/b/pyspark-fundamentals-and-implement-top-ten-pattern.md)
 * [Math Fundamentals](a/m/README.md)
-  * [Estimation Fundamentals and Interview Questions - MLE and MAP](a/m/estimation-fundamentals-and-interview-questions-mle-and-map.md)
   * [Probabilistic Fundamental and Interview Questions](a/m/probabilistic-fundamental.md)
+  * [Estimation Fundamentals and Interview Questions - MLE and MAP](a/m/estimation-fundamentals-and-interview-questions-mle-and-map.md)
   * [Leetcode 710. Random Pick with Blacklist](a/m/leetcode710.md)
 
 ## Coding <a href="c" id="c"></a>
