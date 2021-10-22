@@ -23,6 +23,7 @@
   * [Implement Shared Pointer](c/u/implement-shared-pointer.md)
   * [Circular Reference and Weak Pointer](c/u/circular-reference-and-weak-pointer.md)
 * [Leetcode](c/l/README.md)
+  * [Leetcode 1967. Number of Ways to Arrive at Destination](c/l/leetcode-1967.-number-of-ways-to-arrive-at-destination.md)
   * [Leetcode1727. Largest Submatrix With Rearrangements](c/l/leetcode1727.md)
   * [Leetcode 358. Rearrange String k Distance Apart](c/l/leetcode358.md)
   * [Leetcode 1838. Frequency of the Most Frequent Element](c/l/leetcode1838.md)
