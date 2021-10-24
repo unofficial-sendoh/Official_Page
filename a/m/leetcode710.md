@@ -1,6 +1,6 @@
 # Leetcode 710. Random Pick with Blacklist
 
-{% embed url="https://youtu.be/yuopy\_x2gk8" %}
+{% embed url="https://youtu.be/yuopy_x2gk8" %}
 
 {% embed url="https://www.bilibili.com/video/BV1H64y1Y765/" %}
 
@@ -42,4 +42,3 @@ private:
     int valid_num = 0;
 };
 ```
-

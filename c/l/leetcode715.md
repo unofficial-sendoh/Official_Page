@@ -1,6 +1,6 @@
 # Leetcode 715. Range Module
 
-{% embed url="https://youtu.be/LV\_KASL1smE" %}
+{% embed url="https://youtu.be/LV_KASL1smE" %}
 
 ```cpp
 // Credit to Huahua's solution
@@ -71,4 +71,3 @@ public:
     }
 };
 ```
-

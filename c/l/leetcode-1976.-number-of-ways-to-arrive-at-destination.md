@@ -1,4 +1,4 @@
-# Leetcode 1967. Number of Ways to Arrive at Destination
+# Leetcode 1976. Number of Ways to Arrive at Destination
 
 ```cpp
 class Solution {
@@ -20,7 +20,7 @@ public:
 
         while(!pq.empty()){
             auto [cur_cost, cur] = pq.top(); pq.pop();
-            if(dist[cur] < cur_cost) continue;
+            
             for(auto [nbr, cost] : graph[cur]){
                 const auto new_cost = cur_cost + cost;
                 if(new_cost < dist[nbr]){

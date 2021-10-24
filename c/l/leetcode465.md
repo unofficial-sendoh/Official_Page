@@ -1,6 +1,6 @@
 # Leetcode 465. Optimal Account Balancing
 
-{% embed url="https://youtu.be/pnB3N7rIB\_w" %}
+{% embed url="https://youtu.be/pnB3N7rIB_w" %}
 
 ```cpp
 class Solution {
@@ -55,4 +55,3 @@ private:
     }
 };
 ```
-

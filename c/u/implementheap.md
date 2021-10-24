@@ -1,6 +1,6 @@
 # Implement a Max Heap Using Dynamic Array
 
-{% embed url="https://youtu.be/GI7CriPmU\_M" %}
+{% embed url="https://youtu.be/GI7CriPmU_M" %}
 
 {% embed url="https://www.bilibili.com/video/BV1Uv411A7GU/" %}
 
@@ -71,4 +71,3 @@ private:
     }
 };
 ```
-
