@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/0v3HDQDROGc" %}
 
+{% embed url="https://www.bilibili.com/video/BV1v44y1v7JQ" %}
+
 ```cpp
 class Solution {
 public:
@@ -37,4 +39,3 @@ private:
     Node* m_head = nullptr;
 };
 ```
-
