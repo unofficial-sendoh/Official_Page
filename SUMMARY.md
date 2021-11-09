@@ -5,6 +5,8 @@
 
 ## AI DOMAIN <a href="a" id="a"></a>
 
+* [Machine Learning](a/machine-learning/README.md)
+  * [Implement Forward and Backward Propagation for Fully Connected Layer](a/machine-learning/implement-forward-and-backward-propagation-for-fully-connected-layer.md)
 * [Big Data](a/b/README.md)
   * [HackerRank MapReduce - Word Counts](a/b/hackerrank-mapreduce.md)
   * [Install PySpark on Google Colab / Ubuntu and Solve Word Count](a/b/install-pyspark.md)
