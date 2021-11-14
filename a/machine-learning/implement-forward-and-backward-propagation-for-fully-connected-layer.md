@@ -1,5 +1,7 @@
 # Implement Forward and Backward Propagation for Fully Connected Layer
 
+{% embed url="https://youtu.be/RNZINIGzpVU" %}
+
 ```python
 import numpy as np
 

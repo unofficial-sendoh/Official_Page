@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/dhVaPHXEWsg" %}
 
+{% embed url="https://www.bilibili.com/video/BV1A44y1v76k" %}
+
 ```python
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 !wget -q https://downloads.apache.org/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz
