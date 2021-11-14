@@ -19,7 +19,7 @@
   * [Estimation Fundamentals and Interview Questions - MLE and MAP](a/m/estimation-fundamentals-and-interview-questions-mle-and-map.md)
   * [Leetcode 710. Random Pick with Blacklist](a/m/leetcode710.md)
 
-## Coding <a href="c" id="c"></a>
+## Software Engineeing <a href="c" id="c"></a>
 
 * [Uncategorized](c/u/README.md)
   * [Implement a Max Heap Using Dynamic Array](c/u/implementheap.md)
