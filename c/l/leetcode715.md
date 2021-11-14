@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/LV_KASL1smE" %}
 
+{% embed url="https://www.bilibili.com/video/BV1dh411b7Zc?share_source=copy_web" %}
+
 ```cpp
 // Credit to Huahua's solution
 class RangeModule {
