@@ -21,7 +21,7 @@
 
 ## Software Engineeing <a href="c" id="c"></a>
 
-* [Uncategorized](c/u/README.md)
+* [Special Topics](c/u/README.md)
   * [3 Ways to Implement Factory Pattern](c/u/3-ways-to-implement-factory-pattern.md)
   * [Implement a Max Heap Using Dynamic Array](c/u/implementheap.md)
   * [Implement Shared Pointer](c/u/implement-shared-pointer.md)

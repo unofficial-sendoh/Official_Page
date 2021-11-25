@@ -1,5 +1,7 @@
 # 3 Ways to Implement Factory Pattern
 
+{% embed url="https://youtu.be/xxYPFqGfImc" %}
+
 ```python
 # Use if-else
 import abc
