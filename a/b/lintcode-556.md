@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/IlfoXC2OPLI" %}
 
+{% embed url="https://www.bilibili.com/video/BV1ZR4y1t7h2?share_source=copy_web" %}
+
 ```cpp
 class HashFunction {
 public:
