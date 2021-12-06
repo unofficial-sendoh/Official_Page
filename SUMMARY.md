@@ -3,11 +3,12 @@
 * [Introduction](README.md)
 * [中文介绍](zhong-wen-jie-shao.md)
 
-## AI DOMAIN <a href="a" id="a"></a>
+## AI DOMAIN <a href="#a" id="a"></a>
 
 * [Machine Learning](a/machine-learning/README.md)
   * [Implement Forward and Backward Propagation for Fully Connected Layer](a/machine-learning/implement-forward-and-backward-propagation-for-fully-connected-layer.md)
 * [Big Data](a/b/README.md)
+  * [Join Pattern by PySpark](a/b/join-pattern-by-pyspark.md)
   * [HackerRank MapReduce - Word Counts](a/b/hackerrank-mapreduce.md)
   * [Install PySpark on Google Colab / Ubuntu and Solve Word Count](a/b/install-pyspark.md)
   * [Spark v.s Map Reduce and Summarization Pattern](a/b/spark-v.s-map-reduce.md)
@@ -19,7 +20,7 @@
   * [Estimation Fundamentals and Interview Questions - MLE and MAP](a/m/estimation-fundamentals-and-interview-questions-mle-and-map.md)
   * [Leetcode 710. Random Pick with Blacklist](a/m/leetcode710.md)
 
-## Software Engineeing <a href="c" id="c"></a>
+## Software Engineeing <a href="#c" id="c"></a>
 
 * [Special Topics](c/u/README.md)
   * [3 Ways to Implement Factory Pattern](c/u/3-ways-to-implement-factory-pattern.md)
