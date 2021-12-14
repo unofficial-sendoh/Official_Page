@@ -1,6 +1,6 @@
 # Join Pattern by PySpark
 
-{% embed url="https://youtu.be/Z_MnnW9tiFk" %}
+[Explanation Video Link on Youtube](https://youtu.be/Z\_MnnW9tiFk)
 
 ```python
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
