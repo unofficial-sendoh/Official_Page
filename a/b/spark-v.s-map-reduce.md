@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/H5Pp2Uhmom4" %}
 
+[Explanation Video Link on Youtube](https://youtu.be/H5Pp2Uhmom4)
+
 ```bash
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 !wget -q https://downloads.apache.org/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz
@@ -22,6 +24,4 @@ print(rdd_after_map.collect())
 rdd_after_reduce = rdd_after_map.reduceByKey(lambda x, y: x + y)
 print(rdd_after_reduce.collect())
 ```
-
-
 
