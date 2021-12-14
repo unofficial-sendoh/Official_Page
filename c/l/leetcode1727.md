@@ -1,8 +1,8 @@
 # Leetcode1727. Largest Submatrix With Rearrangements
 
-{% embed url="https://youtu.be/7hhhKEAOLEs" %}
+[Explanation Video Link on Youtube](https://youtu.be/7hhhKEAOLEs)
 
-{% embed url="https://www.bilibili.com/video/BV1CF41187Si?share_source=copy_web" %}
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1CF41187Si)
 
 ```cpp
 class Solution {

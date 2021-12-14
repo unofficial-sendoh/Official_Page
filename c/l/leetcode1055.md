@@ -1,8 +1,8 @@
 # Leetcode 1055. Shortest Way to Format String
 
-{% embed url="https://youtu.be/OSZovOH9w44" %}
+[Explanation Video Link on Youtube](https://youtu.be/OSZovOH9w44)
 
-{% embed url="https://www.bilibili.com/video/BV1Lf4y1A76Y/" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1Lf4y1A76Y)
 
 ```cpp
 class Solution {
@@ -44,4 +44,3 @@ public:
     }
 };
 ```
-

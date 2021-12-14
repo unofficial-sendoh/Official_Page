@@ -1,6 +1,8 @@
 # Leetcode 358. Rearrange String k Distance Apart
 
-{% embed url="https://youtu.be/tBGXyjhM9FE" %}
+[Explanation Video Link on Youtube](https://youtu.be/tBGXyjhM9FE)
+
+[B站英文解说视频链接](https://www.bilibili.com/video/BV17L4y1H7km/)
 
 ```cpp
 class Solution {
@@ -56,6 +58,4 @@ public:
     }
 };
 ```
-
-
 

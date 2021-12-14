@@ -1,8 +1,8 @@
 # Implement a Max Heap Using Dynamic Array
 
-{% embed url="https://youtu.be/GI7CriPmU_M" %}
+[Explanation Video Link on Youtube](https://youtu.be/GI7CriPmU\_M)
 
-{% embed url="https://www.bilibili.com/video/BV1Uv411A7GU/" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1Uv411A7GU?share\_source=copy\_web)
 
 ```cpp
 #include <vector>

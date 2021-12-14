@@ -1,8 +1,8 @@
 # Leetcode 1060. Missing Element in Sorted Array
 
-{% embed url="https://youtu.be/5jDpjERnUGY" %}
+[Explanation Video Link on Youtube](https://youtu.be/5jDpjERnUGY)
 
-{% embed url="https://www.bilibili.com/video/BV1hU4y1A74P?share_source=copy_web" %}
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1hU4y1A74P)
 
 ```cpp
 class Solution {

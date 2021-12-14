@@ -1,8 +1,8 @@
 # Implement Shared Pointer
 
-{% embed url="https://youtu.be/PtnhXSfmIU0" %}
+[Explanation Video Link on Youtube](https://youtu.be/PtnhXSfmIU0)
 
-{% embed url="https://www.bilibili.com/video/BV1pf4y1A7dC/" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1pf4y1A7dC)
 
 ```cpp
 template<typename T>
@@ -102,4 +102,3 @@ SharedPtr<T>&  SharedPtr<T>::operator=(SharedPtr<T>&& another_ptr) {
     return *this;
 }
 ```
-

@@ -1,8 +1,8 @@
 # Spark v.s Map Reduce and Summarization Pattern
 
-{% embed url="https://youtu.be/H5Pp2Uhmom4" %}
-
 [Explanation Video Link on Youtube](https://youtu.be/H5Pp2Uhmom4)
+
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1AP4y1G7TH/)
 
 ```bash
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null

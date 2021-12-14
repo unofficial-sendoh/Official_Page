@@ -1,8 +1,8 @@
 # HackerRank MapReduce - Word Counts
 
-[Explanation Video Link on Youtube](https://youtu.be/DY-9hk1rHRw)
+{% embed url="https://youtu.be/DY-9hk1rHRw" %}
 
-[B站英文讲解视频链接](https://www.bilibili.com/video/BV1RQ4y1k7i9)
+{% embed url="https://www.bilibili.com/video/BV1RQ4y1k7i9/" %}
 
 ```python
 # This template is based on the framework supplied for a similar challenge, in a Coursera Data Science course: https://www.coursera.org/course/datasci
@@ -59,3 +59,4 @@ if __name__ == '__main__':
   mapReducer.execute(inputData, mapper, reducer)
 
 ```
+

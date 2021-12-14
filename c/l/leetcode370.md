@@ -1,8 +1,8 @@
 # Leetcode 370. Range Addition
 
-{% embed url="https://youtu.be/L6Sg12REBOE" %}
+[Explanation Video Link on Youtube](https://youtu.be/L6Sg12REBOE)
 
-{% embed url="https://www.bilibili.com/video/BV18Q4y1h7pf/" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV18Q4y1h7pf)
 
 ```cpp
 class Solution {
@@ -27,4 +27,3 @@ public:
     }
 };
 ```
-

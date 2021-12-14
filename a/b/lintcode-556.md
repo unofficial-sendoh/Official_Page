@@ -1,8 +1,8 @@
 # Lintcode 556. Standard Bloom Filter
 
-{% embed url="https://youtu.be/IlfoXC2OPLI" %}
+[Explanation Video Link on Youtube](https://youtu.be/IlfoXC2OPLI)
 
-{% embed url="https://www.bilibili.com/video/BV1ZR4y1t7h2?share_source=copy_web" %}
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1ZR4y1t7h2)
 
 ```cpp
 class HashFunction {

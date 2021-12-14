@@ -1,8 +1,8 @@
 # Leetcode 1838. Frequency of the Most Frequent Element
 
-{% embed url="https://youtu.be/2F255fcYdyk" %}
+[Explanation Video Link on Youtube](https://youtu.be/2F255fcYdyk)
 
-{% embed url="https://www.bilibili.com/video/BV1844y187z9/" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1844y187z9)
 
 ```cpp
 class Solution {
@@ -31,4 +31,3 @@ public:
     }
 };
 ```
-

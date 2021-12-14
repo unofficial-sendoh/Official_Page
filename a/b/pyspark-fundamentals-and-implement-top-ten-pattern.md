@@ -1,8 +1,8 @@
 # PySpark Fundamentals and Implement Top Ten Pattern
 
-{% embed url="https://youtu.be/dhVaPHXEWsg" %}
+[Explanation Video Link on Youtube](https://youtu.be/dhVaPHXEWsg)
 
-{% embed url="https://www.bilibili.com/video/BV1A44y1v76k" %}
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1A44y1v76k)
 
 ```python
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null

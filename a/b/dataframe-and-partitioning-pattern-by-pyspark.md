@@ -1,4 +1,6 @@
-# Partioner Pattern by PySpark
+# Dataframe and Partitioning Pattern by PySpark
+
+[Explanation Video Link on Youtube](https://youtu.be/iRd2pf2HA\_4)
 
 ```python
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null

@@ -1,8 +1,8 @@
 # Leetcode 706. Design Hashmap
 
-{% embed url="https://youtu.be/WtW8gZrIVHE" %}
+[Explanation Video Link on Youtube](https://youtu.be/WtW8gZrIVHE)
 
-{% embed url="https://www.bilibili.com/video/BV1k34y1S7Xw/" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1k34y1S7Xw)
 
 ```cpp
 class MyHashMap {
@@ -58,4 +58,3 @@ public:
     }
 };
 ```
-

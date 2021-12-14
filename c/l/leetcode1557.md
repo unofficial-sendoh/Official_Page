@@ -1,6 +1,6 @@
 # Leetcode 1557. Minimum Number of Vertices to Reach All Nodes
 
-{% embed url="https://youtu.be/BBsV1rXXWBc" %}
+[Explanation Video Link on Youtube](https://youtu.be/BBsV1rXXWBc)
 
 ```cpp
 class Solution {
@@ -24,4 +24,3 @@ public:
     }
 };
 ```
-

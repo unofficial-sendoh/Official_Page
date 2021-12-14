@@ -1,6 +1,6 @@
 # Leetcode 1976. Number of Ways to Arrive at Destination
 
-{% embed url="https://youtu.be/PAbOk-p1aJ4" %}
+[Explanation Video Link on Youtube](https://youtu.be/PAbOk-p1aJ4)
 
 ```cpp
 class Solution {
