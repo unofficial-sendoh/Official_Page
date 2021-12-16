@@ -1,8 +1,8 @@
 # Leetcode 675. Cut Off Trees for Golf Event
 
-[Explanation Video Link on Youtube](https://youtu.be/1hYC9ySnJhA)
+{% embed url="https://youtu.be/1hYC9ySnJhA" %}
 
-[B站英文解说视频链接](https://www.bilibili.com/video/BV1Zq4y1u7Tc)
+{% embed url="https://www.bilibili.com/video/BV1Zq4y1u7Tc?share_source=copy_web" %}
 
 ```cpp
 class Solution {

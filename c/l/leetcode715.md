@@ -1,8 +1,8 @@
 # Leetcode 715. Range Module
 
-[Explanation Video Link on Youtube](https://youtu.be/LV\_KASL1smE)
+{% embed url="https://youtu.be/LV_KASL1smE" %}
 
-[B站英文解说视频链接](https://www.bilibili.com/video/BV1dh411b7Zc)
+{% embed url="https://www.bilibili.com/video/BV1dh411b7Zc?share_source=copy_web" %}
 
 ```cpp
 // Credit to Huahua's solution

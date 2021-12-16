@@ -1,8 +1,8 @@
 # Leetcode 300. Longest Increasing Subsequence
 
-[Explanation Video Link on Youtube](https://youtu.be/SJZ\_KlTeG-Y)
+{% embed url="https://youtu.be/SJZ_KlTeG-Y" %}
 
-[B站英文解说视频链接](https://www.bilibili.com/video/BV1r3411y7LA)
+{% embed url="https://www.bilibili.com/video/BV1r3411y7LA?share_source=copy_web" %}
 
 ```cpp
 class Solution {

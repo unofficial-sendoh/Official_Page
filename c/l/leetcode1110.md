@@ -1,8 +1,8 @@
 # Leetcode 1110. Delete Nodes And Return Forest
 
-[Explanation Video Link on Youtube](https://youtu.be/Kn9XwTdGTdQ)
+{% embed url="https://youtu.be/Kn9XwTdGTdQ" %}
 
-[B站中文解说视频链接](https://www.bilibili.com/video/BV1VL4y1B7pF)
+{% embed url="https://www.bilibili.com/video/BV1VL4y1B7pF" %}
 
 ```cpp
 class Solution {

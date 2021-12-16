@@ -1,8 +1,8 @@
 # Leetcode 971. Flip Binary Tree To Match Preorder Traversal
 
-[Explanation Video Link on Youtube](https://youtu.be/EMsPe9YN1v8)
+{% embed url="https://youtu.be/EMsPe9YN1v8" %}
 
-[B站中文解说视频链接](https://www.bilibili.com/video/BV1cU4y1c7jf)
+{% embed url="https://www.bilibili.com/video/BV1cU4y1c7jf?share_source=copy_web" %}
 
 ```cpp
 class Solution {
