@@ -1,8 +1,8 @@
 # Leetcode 684. Redundant Connection
 
-{% embed url="https://youtu.be/puOZl3NokDc" %}
+[Explanation Video Link on Youtube](https://youtu.be/puOZl3NokDc)
 
-{% embed url="https://www.bilibili.com/video/BV1JY411x7Vv" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1JY411x7Vv)
 
 ```cpp
 class Solution {

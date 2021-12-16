@@ -1,8 +1,8 @@
 # Leetcode 426. Convert Binary Search Tree to Sorted Doubly Linked list
 
-{% embed url="https://youtu.be/0v3HDQDROGc" %}
+[Explanation Video Link on Youtube](https://youtu.be/0v3HDQDROGc)
 
-{% embed url="https://www.bilibili.com/video/BV1v44y1v7JQ" %}
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1v44y1v7JQ)
 
 ```cpp
 class Solution {

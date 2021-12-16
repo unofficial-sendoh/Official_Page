@@ -4,6 +4,10 @@
 
 {% embed url="https://www.bilibili.com/video/BV1ZP4y187Gm" %}
 
+[Explanation Video Link on Youtube](https://youtu.be/iuGhv6iNlHo)
+
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1ZP4y187Gm)
+
 ```cpp
 class Solution {
 public:
