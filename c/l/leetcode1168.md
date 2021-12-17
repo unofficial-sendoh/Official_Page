@@ -1,6 +1,8 @@
 # Leetcode 1168. Optimize Water Distribution in a Village
 
-{% embed url="https://youtu.be/iLfiGrvkheE" %}
+[Explanation Video Link on Youtube](https://youtu.be/iLfiGrvkheE)
+
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1RQ4y1k7i9?share\_source=copy\_web)
 
 ```cpp
 class Solution {
@@ -50,4 +52,3 @@ private:
     vector<int> parents;
 };
 ```
-
