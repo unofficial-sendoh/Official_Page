@@ -21,7 +21,6 @@
 %%cu
 
 #include <stdio.h>
-#define N (2)
 
 static void HandleError(cudaError_t err,
                          const char *file,
@@ -32,7 +31,7 @@ static void HandleError(cudaError_t err,
         exit( EXIT_FAILURE );
     }
 }
-#define HANDLE_ERROR( err ) (HandleError( err, __FILE__, __LINE__ ))
+#define HANDLE_ERROR(err) (HandleError( err, __FILE__, __LINE__ ))
 
 __global__ void add(int a, int b, int *c) {
   *c = a + b;
@@ -44,7 +43,7 @@ int main(void) {
   printf("  Device name: %s\n", prop.name);
   int c;
   int *dev_c;
-  HANDLE_ERROR(cudaMalloc( (void**)&dev_c, sizeof(int)));
+  HANDLE_ERROR(cudaMalloc((void**)&dev_c, sizeof(int)));
   add<<<1,1>>>(2, 7, dev_c);
   HANDLE_ERROR(cudaMemcpy(&c,dev_c,sizeof(int),cudaMemcpyDeviceToHost));
   printf("2 + 7 = %d\n", c);
