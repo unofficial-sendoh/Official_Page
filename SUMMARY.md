@@ -19,6 +19,8 @@
   * [Probabilistic Fundamental and Interview Questions](a/m/probabilistic-fundamental.md)
   * [Estimation Fundamentals and Interview Questions - MLE and MAP](a/m/estimation-fundamentals-and-interview-questions-mle-and-map.md)
   * [Leetcode 710. Random Pick with Blacklist](a/m/leetcode710.md)
+* [CUDA](a/cuda/README.md)
+  * [Setup CUDA in google collab and an intro example](a/cuda/setup-cuda-in-google-collab-and-an-intro-example.md)
 
 ## Software Engineeing <a href="#c" id="c"></a>
 
