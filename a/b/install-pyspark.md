@@ -1,6 +1,8 @@
 # Install PySpark on Google Colab / Ubuntu and Solve Word Count
 
-{% embed url="https://youtu.be/5KVJBklxqWM" %}
+[Explanation Video Link on Youtube](https://youtu.be/5KVJBklxqWM)
+
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1r64y187rB/)
 
 ## Install Commands on Colab
 
@@ -33,4 +35,3 @@ print(rdd_after_map.collect())
 rdd_after_reduce = rdd_after_map.reduceByKey(lambda x, y: x + y)
 print(rdd_after_reduce.collect())
 ```
-

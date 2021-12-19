@@ -1,8 +1,8 @@
 # Leetcode 465. Optimal Account Balancing
 
-{% embed url="https://youtu.be/pnB3N7rIB_w" %}
+[Explanation Video Link on Youtube](https://youtu.be/pnB3N7rIB\_w)
 
-{% embed url="https://www.bilibili.com/video/BV1qF411Y7p9" %}
+[B站英文解说视频链接](https://www.bilibili.com/video/BV1qF411Y7p9)
 
 ```cpp
 class Solution {

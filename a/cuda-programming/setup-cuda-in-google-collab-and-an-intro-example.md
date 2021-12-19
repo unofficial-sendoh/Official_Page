@@ -1,5 +1,7 @@
 # Setup CUDA in google collab and an intro example
 
+[Explanation Video Link on Youtube](https://youtu.be/hh0MPD5kCWg)
+
 ```shell
 !apt-get --purge remove cuda nvidia* libnvidia-*
 !dpkg -l | grep cuda- | awk '{print $2}' | xargs -n1 dpkg --purge
