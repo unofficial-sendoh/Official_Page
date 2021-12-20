@@ -21,6 +21,7 @@
   * [Leetcode 710. Random Pick with Blacklist](a/m/leetcode710.md)
 * [CUDA Programming](a/cuda-programming/README.md)
   * [Setup CUDA in google collab and an intro example](a/cuda-programming/setup-cuda-in-google-collab-and-an-intro-example.md)
+  * [Thread Cooperation and Solution of Vector Dot Product](a/cuda-programming/thread-cooperation-and-solution-of-vector-dot-product.md)
 
 ## Software Engineeing <a href="#c" id="c"></a>
 
