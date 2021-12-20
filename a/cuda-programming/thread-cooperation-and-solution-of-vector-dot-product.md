@@ -17,7 +17,7 @@
 %load_ext nvcc_plugin
 ```
 
-```
+```cpp
 %%cu
 
 #include <stdio.h>
@@ -64,7 +64,7 @@ int main(void) {
 
 Improvement above by using thread cooperation
 
-```
+```cpp
 %%cu
 #include <stdio.h>
 const int threadsPerBlock = 256;
