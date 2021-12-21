@@ -19,24 +19,22 @@
 
 ```cpp
 %%cu
-
 #include <stdio.h>
-
 #define N (1024)
 __global__ void add( int *a, int *b, int *c ) {
     int tid = threadIdx.x + blockIdx.x * blockDim.x;
-    while (tid < N) {
-      c[tid] = a[tid] * b[tid];
-      tid += blockDim.x * gridDim.x;
-    }
+    c[tid] = a[tid] * b[tid];
 }
 int main(void) {
     int a[N], b[N], c[N];
     int *dev_a, *dev_b, *dev_c;
+
+    // allocate the memory on the GPU
     cudaMalloc((void**)&dev_a, N * sizeof(int));
     cudaMalloc((void**)&dev_b, N * sizeof(int));
     cudaMalloc((void**)&dev_c, N * sizeof(int));
 
+    // fill the array 'a' and 'b' on the CPU
     for (int i = 0; i < N; i++) {
         a[i] = i;
         b[i] = i;
@@ -45,16 +43,19 @@ int main(void) {
     cudaMemcpy(dev_a, a, N * sizeof(int), cudaMemcpyHostToDevice);
     cudaMemcpy(dev_b, b, N * sizeof(int), cudaMemcpyHostToDevice);
     add<<<128, 128>>>(dev_a, dev_b, dev_c);
+
+    // copy the array'c' back from GPU to the CPU
     cudaMemcpy(c, dev_c, N * sizeof(int), cudaMemcpyDeviceToHost);
 
     bool success = true;
     int sum = 0;
-    
     for (int i = 0; i < N; i++) {
         sum += c[i];
     }
-    
-    printf("Sum is: %d", sum);
+
+    if (success) printf("Sum is: %d", sum);
+
+    // free the memory allocated on the GPU
     cudaFree(dev_a);
     cudaFree(dev_b);
     cudaFree(dev_c);
@@ -75,14 +76,7 @@ __global__ void dot(int *a, int *b, int *c) {
     __shared__ int cache[threadsPerBlock];
     int tid = threadIdx.x + blockIdx.x * blockDim.x;
     int cacheIndex = threadIdx.x;
-    int temp = 0;
-
-    while (tid < N) {
-        temp += a[tid] * b[tid];
-        tid += blockDim.x * gridDim.x;
-    }
-
-    cache[cacheIndex] = temp;
+    cache[cacheIndex] = a[tid] * b[tid];
     __syncthreads();
 
     // for reductions, threadsPerBlock must be a power of 2
