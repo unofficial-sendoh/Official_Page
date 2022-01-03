@@ -82,11 +82,14 @@ int main(void) {
   cudaEventRecord(start, 0);
   cudaStream_t stream;
   cudaStreamCreate(&stream);
-  int host_a[FULL_DATA_SIZE], host_b[FULL_DATA_SIZE], host_c[FULL_DATA_SIZE];
+  int *host_a, *host_b, *host_c;
   int *dev_a, *dev_b, *dev_c;
   cudaMalloc((void**)&dev_a, N * sizeof(int));
   cudaMalloc((void**)&dev_b, N * sizeof(int));
   cudaMalloc((void**)&dev_c, N * sizeof(int));
+  cudaHostAlloc((void**)&host_a, FULL_DATA_SIZE * sizeof(int), cudaHostAllocDefault);
+  cudaHostAlloc((void**)&host_b, FULL_DATA_SIZE * sizeof(int), cudaHostAllocDefault);
+  cudaHostAlloc((void**)&host_c, FULL_DATA_SIZE * sizeof(int), cudaHostAllocDefault);
 
   for (int i = 0; i < FULL_DATA_SIZE; i++) {
     host_a[i] = rand();
@@ -111,6 +114,7 @@ int main(void) {
   cudaFreeHost(host_a);
   cudaFreeHost(host_b);
   cudaFreeHost(host_c);
+  cudaStreamDestroy(stream);
   return 0;
 }
 ```
