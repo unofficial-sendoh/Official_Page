@@ -63,7 +63,7 @@ int main(void) {
 }
 ```
 
-Use CUDA Streams to optimize above code performance:
+Use CUDA Stream to implement code above:
 
 ```c
 %%cu
