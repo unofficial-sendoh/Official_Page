@@ -49,7 +49,7 @@ int main(void) {
     cudaMemcpy(dev_a, host_a + i, N * sizeof(int), cudaMemcpyHostToDevice);
     cudaMemcpy(dev_b, host_b + i, N * sizeof(int), cudaMemcpyHostToDevice);
     add<<<256,256>>>(dev_a, dev_b, dev_c);
-    cudaMemcpy(host_c, dev_c, N * sizeof(int), cudaMemcpyDeviceToHost);
+    cudaMemcpy(host_c + i, dev_c, N * sizeof(int), cudaMemcpyDeviceToHost);
   }
 
   cudaEventRecord(stop, 0);
