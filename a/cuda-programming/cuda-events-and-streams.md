@@ -1,5 +1,7 @@
 # CUDA Events and Streams
 
+[Explanation Video Link on Youtube](https://youtu.be/iHK9o26EOSQ)
+
 ```shell
 !apt-get --purge remove cuda nvidia* libnvidia-*
 !dpkg -l | grep cuda- | awk '{print $2}' | xargs -n1 dpkg --purge

@@ -1,5 +1,7 @@
 # Thread Cooperation and Solution of Vector Dot Product
 
+[Explanation Video Link on Youtube](https://youtu.be/HB4RIJ3czrY)
+
 ```shell
 !apt-get --purge remove cuda nvidia* libnvidia-*
 !dpkg -l | grep cuda- | awk '{print $2}' | xargs -n1 dpkg --purge

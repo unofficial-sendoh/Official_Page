@@ -1,5 +1,7 @@
 # CUDA Atomics
 
+[Explanation Video Link on Youtube](https://youtu.be/yncSEPGqq3M)
+
 ```cpp
 %%cu
 #include <stdio.h>
