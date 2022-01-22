@@ -32,6 +32,7 @@
   * [Implement a Max Heap Using Dynamic Array](c/u/implementheap.md)
   * [Implement Shared Pointer](c/u/implement-shared-pointer.md)
   * [Circular Reference and Weak Pointer](c/u/circular-reference-and-weak-pointer.md)
+  * [ID Allocator](c/u/id-allocator.md)
 * [Leetcode](c/l/README.md)
   * [Leetcode 1976. Number of Ways to Arrive at Destination](c/l/leetcode-1976.-number-of-ways-to-arrive-at-destination.md)
   * [Leetcode1727. Largest Submatrix With Rearrangements](c/l/leetcode1727.md)
