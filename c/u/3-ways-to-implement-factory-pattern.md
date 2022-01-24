@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/xxYPFqGfImc)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV16F411v7mA?share\_source=copy\_web)
+
 ```python
 # Use if-else
 import abc

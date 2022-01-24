@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/DY-9hk1rHRw)
 
+[B站英文解说视频链接](https://www.bilibili.com/video/BV16q4y127Xm?share\_source=copy\_web)
+
 ```python
 # This template is based on the framework supplied for a similar challenge, in a Coursera Data Science course: https://www.coursera.org/course/datasci
 # And the code supplied here: https://github.com/uwescience/datasci_course_materials/blob/master/assignment3/wordcount.py

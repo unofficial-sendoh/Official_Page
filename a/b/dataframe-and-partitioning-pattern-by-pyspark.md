@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/iRd2pf2HA\_4)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1FZ4y1S7dF?share\_source=copy\_web)
+
 ```python
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
 !wget -q https://downloads.apache.org/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz
