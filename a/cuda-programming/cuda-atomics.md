@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/yncSEPGqq3M)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1QZ4y1f7qd?share\_source=copy\_web)
+
 ```cpp
 %%cu
 #include <stdio.h>

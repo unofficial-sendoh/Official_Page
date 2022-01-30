@@ -1,5 +1,7 @@
 # ID Allocator
 
+[Explanation Video Link on Youtube](https://youtu.be/c9UXT2Niew8)
+
 ```cpp
 #include <unordered_set>
 #include <queue>

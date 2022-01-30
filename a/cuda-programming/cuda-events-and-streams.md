@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/iHK9o26EOSQ)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1v34y1i75Q?share\_source=copy\_web)
+
 ```shell
 !apt-get --purge remove cuda nvidia* libnvidia-*
 !dpkg -l | grep cuda- | awk '{print $2}' | xargs -n1 dpkg --purge
