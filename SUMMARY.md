@@ -6,6 +6,7 @@
 ## AI DOMAIN <a href="#a" id="a"></a>
 
 * [Machine Learning](a/machine-learning/README.md)
+  * [Implement Dropout Layer](a/machine-learning/implement-dropout-layer.md)
   * [Implement Forward and Backward Propagation for Fully Connected Layer](a/machine-learning/implement-forward-and-backward-propagation-for-fully-connected-layer.md)
 * [Big Data](a/b/README.md)
   * [Join Pattern by PySpark](a/b/join-pattern-by-pyspark.md)
