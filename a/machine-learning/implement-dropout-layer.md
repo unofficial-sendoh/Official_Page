@@ -14,7 +14,6 @@ class Dropout():
     def forward(self, X, mode):
         if mode == 'train':
             self.mask = np.random.binomial(1, self.p, X.shape)
-            print("prev: ", self.mask)
             self.mask = np.true_divide(self.mask, self.p)
             out =  self.mask * X
         else:
