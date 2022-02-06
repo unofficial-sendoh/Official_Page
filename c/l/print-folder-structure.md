@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/Emr9lseZcRM)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1N44y1W7pq/)
+
 ```cpp
 #include <vector>
 #include <string>

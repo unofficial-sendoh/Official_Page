@@ -1,5 +1,7 @@
 # Implement Dropout Layer
 
+[Explanation Video Link on Youtube](https://youtu.be/ljgbtQwIP8I)
+
 ```python
 import numpy as np
 
