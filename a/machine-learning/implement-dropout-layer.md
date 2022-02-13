@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/ljgbtQwIP8I)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1au411d7eo?share\_source=copy\_web)
+
 ```python
 import numpy as np
 
