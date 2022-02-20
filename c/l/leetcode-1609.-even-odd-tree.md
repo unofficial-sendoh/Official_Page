@@ -1,5 +1,7 @@
 # Leetcode 1609. Even Odd Tree
 
+[Explanation Video Link on Youtube](https://youtu.be/9RZfsIrF1TI)
+
 ```cpp
 class Solution {
 public:
