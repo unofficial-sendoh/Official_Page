@@ -2,6 +2,8 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/9RZfsIrF1TI)
 
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1hm4y1d7PV/)
+
 ```cpp
 class Solution {
 public:

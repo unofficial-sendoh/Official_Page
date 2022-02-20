@@ -2,7 +2,7 @@
 
 [Explanation Video Link on Youtube](https://youtu.be/c9UXT2Niew8)
 
-[B站中文解说视频链接](https://www.bilibili.com/video/BV1PL4y147G7/)
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1q341177WQ/)
 
 ```cpp
 #include <unordered_set>
