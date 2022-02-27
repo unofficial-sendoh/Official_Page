@@ -1,5 +1,9 @@
 # Meeting Hours Optimization
 
+[Explanation Video Link on Youtube](https://youtu.be/aLRX54L6g1s)
+
+[B站中文解说视频链接](https://www.bilibili.com/video/BV1dS4y1r7L6/)
+
 ```cpp
 #include <vector>
 #include <iostream>
