@@ -1,4 +1,4 @@
-# Implement Forward and Backward Propagation for Fully Connected Layer
+# Implement Forward and Backward Propagation for Fully Connected Layer in Deep Neural Network
 
 [Explanation Video Link on Youtube](https://youtu.be/RNZINIGzpVU)
 

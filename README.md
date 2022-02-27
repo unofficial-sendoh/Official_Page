@@ -10,4 +10,4 @@ My Youtube Channel [Link](https://www.youtube.com/channel/UCY9yF2DAxnthjhPOvQPRX
 
 My Bilibili Channel [Link](https://space.bilibili.com/39252600).
 
-[https://youtu.be/bXoKbuCRFg8](https://youtu.be/bXoKbuCRFg8)
+{% embed url="https://youtu.be/bXoKbuCRFg8" %}

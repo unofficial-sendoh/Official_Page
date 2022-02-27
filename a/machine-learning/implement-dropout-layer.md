@@ -1,4 +1,4 @@
-# Implement Dropout Layer
+# Implement Dropout Layer in Deep Neural Network
 
 [Explanation Video Link on Youtube](https://youtu.be/ljgbtQwIP8I)
 
