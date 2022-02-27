@@ -1,4 +1,6 @@
-# Implement Activation Layer
+# Implement Activation Layer in Deep Neural Network
+
+[Explanation Video Link on Youtube](https://youtu.be/8\_v7scHtjMo)
 
 ```python
 import numpy as np
