@@ -30,13 +30,14 @@
 ## Software Engineeing <a href="#c" id="c"></a>
 
 * [Special Topics](c/u/README.md)
+  * [Meeting Hours Optimization](c/u/meeting-hours-optimization.md)
   * [3 Ways to Implement Factory Pattern](c/u/3-ways-to-implement-factory-pattern.md)
   * [Implement a Max Heap Using Dynamic Array](c/u/implementheap.md)
   * [Implement Shared Pointer](c/u/implement-shared-pointer.md)
   * [Circular Reference and Weak Pointer](c/u/circular-reference-and-weak-pointer.md)
   * [ID Allocator](c/u/id-allocator.md)
 * [Interview Questions](c/l/README.md)
-  * [Meeting Hours Optimization](c/l/meeting-hours-optimization.md)
+  * [Closest Coin](c/l/closest-coin.md)
   * [Leetcode 1609. Even Odd Tree](c/l/leetcode-1609.-even-odd-tree.md)
   * [Print Folder Structure](c/l/print-folder-structure.md)
   * [Leetcode 1976. Number of Ways to Arrive at Destination](c/l/leetcode-1976.-number-of-ways-to-arrive-at-destination.md)
