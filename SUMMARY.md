@@ -6,6 +6,7 @@
 ## AI DOMAIN <a href="#a" id="a"></a>
 
 * [Machine Learning](a/machine-learning/README.md)
+  * [Implement Batch Normalization By Computational Graph](a/machine-learning/implement-batch-normalization-by-computational-graph.md)
   * [Implement Activation Layer in Deep Neural Network](a/machine-learning/implement-activation-layer.md)
   * [Implement Dropout Layer in Deep Neural Network](a/machine-learning/implement-dropout-layer.md)
   * [Implement Forward and Backward Propagation for Fully Connected Layer in Deep Neural Network](a/machine-learning/implement-forward-and-backward-propagation-for-fully-connected-layer.md)
