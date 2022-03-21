@@ -29,7 +29,7 @@ class BatchNorm():
         # We use a running average to get sample mean and variance for testing phase.
         # Momentum is the importance given to the last seen mini-batch, a.k.a “lag”. If the momentum is set to 0, the running mean and 
         # variance come from the last seen mini-batch. However, this may be biased and not the desirable one for testing. 
-        #Conversely, if momentum is set to 1, it uses the running mean and variance from the first mini-batch. Essentially, 
+        # Conversely, if momentum is set to 1, it uses the running mean and variance from the first mini-batch. Essentially, 
         # momentum controls how much each new mini-batch contributes to the running averages.
         self.running_mean = self.momentum * self.running_mean + (1 - self.momentum) * self.sample_mean
         self.running_var = self.momentum * self.running_var + (1 - self.momentum) * self.sample_var
