@@ -8,7 +8,6 @@ public:
     
     bool book(int start, int end) {        
         auto it = booked_.lower_bound(start);
-
         if (it != booked_.cend() && it->first < end)
             return false;        
         if (it != booked_.cbegin() && (--it)->second > start)
