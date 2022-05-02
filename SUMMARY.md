@@ -6,6 +6,7 @@
 ## AI DOMAIN <a href="#a" id="a"></a>
 
 * [Machine Learning](a/machine-learning/README.md)
+  * [Implement Binary Cross Entropy Loss](a/machine-learning/implement-binary-cross-entropy-loss.md)
   * [Implement Batch Normalization By Computational Graph](a/machine-learning/implement-batch-normalization-by-computational-graph.md)
   * [Implement Activation Layer in Deep Neural Network](a/machine-learning/implement-activation-layer.md)
   * [Implement Dropout Layer in Deep Neural Network](a/machine-learning/implement-dropout-layer.md)
